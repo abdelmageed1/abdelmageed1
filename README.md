@@ -8,12 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=mobile%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer (mobile developer)
+- 🏢 I'm a Software Engineer (Machine Learning Engineer)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Java, Kotlin,android, and Dart , Flutter, or anything related to Mobile development.
+<!-- - 💬 Ask me about my experience with Java, Kotlin,android, and Dart , Flutter, or anything related to Mobile development. -->
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
@@ -22,16 +22,18 @@
 <a href="https://www.linkedin.com/in/abdelmageed-fathy-3825861bb/" target="_blank"><img src="https://img.shields.io/badge/-Abdelmageed%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ABMGD1" target="_blank"><img src="https://img.shields.io/badge/-Abdelmageed%20Fathy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![AI](https://img.shields.io/badge/-AI%20-05122A?style=flat&logo=python)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-machine%20learning-05122A?style=flat&logo=python)&nbsp;
+![Computer Vision](https://img.shields.io/badge/-comouter%20vision-05122A?style=flat&logo=python)
+![NLP](https://img.shields.io/badge/-nlp-05122A?style=flat&logo=python)
+![Problem Solving](https://img.shields.io/badge/-problem%20solving-05122A?style=flat&logo=python)
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=563D7C)&nbsp;
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin&logoColor=563D7C)&nbsp;
-![android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=1572B6)&nbsp;
-![fultter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![abdroid studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-![SQl](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+ ![SQl](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 
 
 
